@@ -1,0 +1,19 @@
+id;phase;poste;unite;quantite;cout_unitaire_fcfa;montant_fcfa;source_statut
+D01;Decouverte;Cartographie et coordination;jour;5;35000;175000;Hypothese interne non devis
+D02;Decouverte;Analyse juridique et donnees;jour;4;75000;300000;Hypothese interne non devis
+D03;Decouverte;Entretiens et deplacements;entretien;10;5000;50000;Hypothese interne non devis
+C01;Construction;Conception accessible;jour;4;50000;200000;Hypothese interne non devis
+C02;Construction;Developpement serveur et interface;jour;25;60000;1500000;Hypothese interne non devis
+C03;Construction;Tests independants;jour;7;50000;350000;Hypothese interne non devis
+C04;Construction;Revue de securite ciblee;jour;3;100000;300000;Hypothese interne non devis
+C05;Construction;Deploiement et documentation;jour;3;60000;180000;Hypothese interne non devis
+C06;Construction;Formation des relais;session;2;100000;200000;Hypothese interne non devis
+C07;Construction;Terminaux dedies;appareil;2;150000;300000;Hypothese interne non devis
+O01;Exploitation;Coordination pilote;mois;3;150000;450000;Hypothese interne non devis
+O02;Exploitation;Deux relais sur trois mois;mois-relais;6;75000;450000;Hypothese interne non devis
+O03;Exploitation;Hebergement et sauvegardes;mois;3;60000;180000;Hypothese interne non devis
+O04;Exploitation;Enveloppe messagerie;mois;3;30000;90000;Hypothese interne non devis
+O05;Exploitation;Information accessible et traduction;lot;1;150000;150000;Hypothese interne non devis
+O06;Exploitation;Visites de supervision;visite;3;50000;150000;Hypothese interne non devis
+O07;Exploitation;Evaluation et cloture;jour;4;50000;200000;Hypothese interne non devis
+O08;Exploitation;Maintenance et support;mois;3;100000;300000;Hypothese interne non devis
